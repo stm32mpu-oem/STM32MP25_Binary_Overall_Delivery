@@ -19,7 +19,3 @@ STM32MP25 Software development kit Addons for X-LINUX-AI | [SDK-x86_64-stm32mp25
 STM32MP25 Packages (specific) | Description
 ---------------------- | -----------
 STM32AI-MPU tool for X-LINUX-AI | [stm32ai-mpu-tool-v0.2.tar.gz](https://github.com/stm32mpu-oem/STM32MP25_Binary_Overall_Delivery/releases/download/v5.0.2/stm32ai-mpu-tool-v0.2.tar.gz)
-STM32CubeProgrammer software for win64| [STM32CubeProg-BETA_Delivery_STM32MP25_RevB_win64.zip](https://github.com/stm32mpu-oem/STM32MP25_Binary_Overall_Delivery/releases/download/v5.0.2/STM32CubeProg-BETA_Delivery_STM32MP25_RevB_win64.zip)
-Integrated Development Environment for amd64 | [STM32CubeIDE-BETA_Delivery_STM32MP25_RevB_amd64.zip](https://github.com/stm32mpu-oem/STM32MP25_Binary_Overall_Delivery/releases/download/v5.0.2/STM32CubeIDE-BETA_Delivery_STM32MP25_RevB_amd64.zip)
-Integrated Development Environment for x86 | [STM32CubeIDE-BETA_Delivery_STM32MP25_RevB_x86.zip](https://github.com/stm32mpu-oem/STM32MP25_Binary_Overall_Delivery/releases/download/v5.0.2/STM32CubeIDE-BETA_Delivery_STM32MP25_RevB_x86.zip)
-STM32Cube initialization code generator | [STM32CubeMX-BETA_Delivery_STM32MP25_RevB.zip](https://github.com/stm32mpu-oem/STM32MP25_Binary_Overall_Delivery/releases/download/v5.0.2/STM32CubeMX-BETA_Delivery_STM32MP25_RevB.zip)

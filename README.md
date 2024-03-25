@@ -7,8 +7,8 @@ STM32MPU Embedded Software distribution is a set of software components, system 
 This repo is a simple Readme describing all STM32MP25 related Binaries (Embedded SW or Tools).
 
 ### Embedded_SW 
-STM32MP25 Packages (specific) | Description
----------------------- | -----------
+STM32MP25 Packages (specific) | Description                                                   
+----------------------------- | --------------------------------------------------------------
 STM32MP25 OpenSTLinux Starter Package | [FLASH-stm32mp25-openstlinux-6.1-yocto-mickledore-mp2-v23.12.06.tar.gz](https://github.com/stm32mpu-oem/Embedded_SW_Packages/releases/download/v5.0.2/FLASH-stm32mp25-openstlinux-6.1-yocto-mickledore-mp2-v23.12.06.tar.gz)
 STM32MP25 Software development kit for Arm Cortex 64-bit architecture including C programming language | [SDK-aarch64-stm32mp25-openstlinux-6.1-yocto-mickledore-mp2-v23.12.06.tar.gz](https://github.com/stm32mpu-oem/Embedded_SW_Packages/releases/download/v5.0.2/SDK-aarch64-stm32mp25-openstlinux-6.1-yocto-mickledore-mp2-v23.12.06.tar.gz)
 STM32MP2 Software development kit for x86-based systems including C programming language | [SDK-x86_64-stm32mp25-openstlinux-6.1-yocto-mickledore-mp2-v23.12.06.tar.gz](https://github.com/stm32mpu-oem/Embedded_SW_Packages/releases/download/v5.0.2/SDK-x86_64-stm32mp25-openstlinux-6.1-yocto-mickledore-mp2-v23.12.06.tar.gz)

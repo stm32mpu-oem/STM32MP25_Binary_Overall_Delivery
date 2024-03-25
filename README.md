@@ -18,4 +18,8 @@ STM32MP25 Software development kit Addons for X-LINUX-AI | [SDK-x86_64-stm32mp25
 ### Tools
 STM32MP25 Packages (specific) | Description
 ---------------------- | -----------
-[oe-manifest](https://github.com/stm32mpu-oem/oe-manifest) | STM32MP25 Embedded Software overall manifest
+STM32AI-MPU tool for X-LINUX-AI | [stm32ai-mpu-tool-v0.2.tar.gz]()
+STM32CubeProgrammer software for all STM32MP25 | [STM32CubeProg-BETA_Delivery_STM32MP25_RevB_win64.zip]()
+Integrated Development Environment for STM32MP25 (amd64) | [STM32CubeIDE-BETA_Delivery_STM32MP25_RevB_amd64.zip]()
+Integrated Development Environment for STM32MP25 (x86) | [STM32CubeIDE-BETA_Delivery_STM32MP25_RevB_x86.zip]()
+STM32Cube initialization code generator for STM32MP25 | [STM32CubeMX-BETA_Delivery_STM32MP25_RevB.zip]()
